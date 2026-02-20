@@ -1,2 +1,0 @@
-# Zeltaq
-This is messenger
